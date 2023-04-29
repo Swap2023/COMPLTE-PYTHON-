@@ -1,3 +1,4 @@
 #STRING
 #LIST
 #TUPLE
+#DICT
