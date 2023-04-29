@@ -1,1 +1,2 @@
-# STRING_python
+#STRING
+#LIST
