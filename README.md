@@ -16,4 +16,5 @@
 #NO SQL ALL OPERATIONS
 #PANDAS TASK
 #NUMPY
+#Python Basic assignments 
 
